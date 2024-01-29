@@ -118,6 +118,9 @@ p{
     width: 15%;
     margin: 20px 20px 50px;
 }
+.freeCardStyle{
+    height: 20px;
+}
 
 /* Pricing Section*/
 
@@ -128,9 +131,6 @@ p{
 
 .card-body-1{
     margin: 17.6% 14%;
-}
-.card-body-2{
-    margin: 5.9% 14%;
 }
 
 /* CTA Section */
